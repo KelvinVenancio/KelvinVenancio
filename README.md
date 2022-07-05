@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-kelvinsoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvinsoares/)](https://www.linkedin.com/in/kelvinsoares/)
+
 <!--
 **KelvinVenancio/KelvinVenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
